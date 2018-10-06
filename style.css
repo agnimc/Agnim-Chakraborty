@@ -1,0 +1,15 @@
+h1{
+    color: pink;
+    background-color: red;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:bold;
+    margin:  5px;
+    padding:  10px;
+    border: 15px solid blue;
+
+}
+
+body{
+color: rgb(132, 130, 238);}
